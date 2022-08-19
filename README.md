@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warleyjr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/warleycpjunior)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warleyjr10&layout=compact)](https://github.com/warleyjr10/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warleyjr10&layout=compact)](https://github.com/warleyjr10?tab=repositories)
 
 ## Tecnologias que eu uso no meu dia a dia
 
