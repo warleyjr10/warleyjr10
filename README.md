@@ -17,6 +17,7 @@
 <a href="https://www.tensorflow.org/"><img align="center" alt="wj-tensor" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/></a>
 <a href="https://www.mongodb.com/"><img align="center" alt="wj-mongo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
 <a href="https://www.postgresql.org/"><img align="center" alt="wj-postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a>
+<a href="=https://go.dev/"><img align="center" alt="wj-golang" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/></a>
 </div><br/>
 
   ##
